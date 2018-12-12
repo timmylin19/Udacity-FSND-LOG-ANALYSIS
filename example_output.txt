@@ -1,0 +1,6 @@
+Three articles of all time:
+['candidate-is-jerk', 'bears-love-berries', 'bad-things-gone']
+Most popular authors of all time
+['Ursula La Multa', 'Rudolf von Treppenwitz', 'Anonymous Contributor']
+Days with more than 1 percent of request error rate
+['2016-07-17']
